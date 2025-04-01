@@ -1,9 +1,5 @@
-# time_series_analysis_-_forecasting
-This project applies classical and machine learning time series techniques—including ARIMA, XGBoost, LSTM, and hybrid models—to forecast future book sales based on historical weekly sales data. The solution identifies seasonal trends and sales patterns to support data-driven inventory and stock planning decisions.
-
 # Time Series Book Sales Forecasting
-
-This project uses time series analysis to forecast future book sales for two anonymised titles based on historical weekly sales data. It explores statistical models (ARIMA), machine learning (XGBoost), deep learning (LSTM), and hybrid forecasting methods to identify patterns and support data-driven inventory planning.
+This project applies classical and machine learning time series techniques—including ARIMA, XGBoost, LSTM, and hybrid models—to forecast future book sales based on historical weekly sales data. The solution identifies seasonal trends and sales patterns to support data-driven inventory and stock planning decisions.
 
 ## 📊 Project Overview
 
